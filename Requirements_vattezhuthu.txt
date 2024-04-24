@@ -1,0 +1,8 @@
+Keras
+scikit-image
+tqdm
+numpy
+Pillow
+tensorflow
+matplotlib
+gTTs
